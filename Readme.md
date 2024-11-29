@@ -8,11 +8,7 @@ A Python-based Text-to-Speech (TTS) tool that reads text from a file and convert
 1. [Features](#features)  
 2. [Prerequisites](#prerequisites)  
 3. [Installation](#installation)  
-4. [Usage](#usage)  
-5. [Customization](#customization)  
-6. [Examples](#examples)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
+
 
 ---
 
